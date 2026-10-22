@@ -1,0 +1,2319 @@
+[
+  {
+    "codename": "Mi439",
+    "name": "Redmi 7A",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SDM439 Snapdragon 439",
+    "lineage_device_tree": "android_device_xiaomi_Mi439",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi439_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi439",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi439",
+    "name": "Redmi 8",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SDM439 Snapdragon 439",
+    "lineage_device_tree": "android_device_xiaomi_Mi439",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi439_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi439",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi439",
+    "name": "Redmi 8A",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SDM439 Snapdragon 439",
+    "lineage_device_tree": "android_device_xiaomi_Mi439",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi439_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi439",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi439",
+    "name": "Redmi 8A Dual",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SDM439 Snapdragon 439",
+    "lineage_device_tree": "android_device_xiaomi_Mi439",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi439_variant4.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi439",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8917",
+    "name": "Redmi 4A",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8917 Snapdragon 425",
+    "lineage_device_tree": "android_device_xiaomi_Mi8917",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8917_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8917",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8917",
+    "name": "Redmi 5A",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8917 Snapdragon 425",
+    "lineage_device_tree": "android_device_xiaomi_Mi8917",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8917_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8917",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8917",
+    "name": "Redmi Note 5A Lite",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8917 Snapdragon 425",
+    "lineage_device_tree": "android_device_xiaomi_Mi8917",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8917_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8917",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8917",
+    "name": "Redmi Y1 Lite",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8917 Snapdragon 425",
+    "lineage_device_tree": "android_device_xiaomi_Mi8917",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8917_variant4.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8917",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8937",
+    "name": "Redmi 3S",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8937 Snapdragon 430",
+    "lineage_device_tree": "android_device_xiaomi_Mi8937",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8937_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8937",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8937",
+    "name": "Redmi 3X",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8937 Snapdragon 430",
+    "lineage_device_tree": "android_device_xiaomi_Mi8937",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8937_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8937",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8937",
+    "name": "Redmi 4 (India)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8940 Snapdragon 435",
+    "lineage_device_tree": "android_device_xiaomi_Mi8937",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8937_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8937",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8937",
+    "name": "Redmi 4X",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8940 Snapdragon 435",
+    "lineage_device_tree": "android_device_xiaomi_Mi8937",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8937_variant4.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8937",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8937",
+    "name": "Redmi Note 5A Prime",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8940 Snapdragon 435",
+    "lineage_device_tree": "android_device_xiaomi_Mi8937",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8937_variant5.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8937",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "Mi8937",
+    "name": "Redmi Y1 Prime",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm MSM8940 Snapdragon 435",
+    "lineage_device_tree": "android_device_xiaomi_Mi8937",
+    "lineage_kernel_repo": "android_kernel_xiaomi_msm8937",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/Mi8937_variant6.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_msm8937 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_Mi8937",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "alioth",
+    "name": "POCO F3",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_xiaomi_alioth",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/alioth_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_alioth",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "alioth",
+    "name": "Redmi K40",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_xiaomi_alioth",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/alioth_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_alioth",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "alioth",
+    "name": "Mi 11X",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_xiaomi_alioth",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/alioth_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_alioth",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "apollon",
+    "name": "Mi 10T",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_apollon",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/apollon_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_apollon",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "apollon",
+    "name": "Mi 10T Pro",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_apollon",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/apollon_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_apollon",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "apollon",
+    "name": "Redmi K30S Ultra",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_apollon",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/apollon_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_apollon",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "cas",
+    "name": "Mi 10 Ultra",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_cas",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/cas.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_cas",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "cmi",
+    "name": "Mi 10 Pro",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_cmi",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/cmi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_cmi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "cupid",
+    "name": "12",
+    "soc": "Qualcomm SM8450 Snapdragon 8 Gen1",
+    "lineage_device_tree": "android_device_xiaomi_cupid",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/cupid.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_cupid",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "davinci",
+    "name": "Mi 9T",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7150-AA Snapdragon 730",
+    "lineage_device_tree": "android_device_xiaomi_davinci",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "17.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/davinci_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_davinci",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "davinci",
+    "name": "Redmi K20 (China)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7150-AA Snapdragon 730",
+    "lineage_device_tree": "android_device_xiaomi_davinci",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "17.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/davinci_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_davinci",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "davinci",
+    "name": "Redmi K20 (India)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7150-AA Snapdragon 730",
+    "lineage_device_tree": "android_device_xiaomi_davinci",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "17.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/davinci_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_davinci",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "diting",
+    "name": "12T Pro",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_diting",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/diting_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_diting",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "diting",
+    "name": "Redmi K50 Ultra",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_diting",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/diting_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_diting",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "earth",
+    "name": "Redmi 12C",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G85",
+    "lineage_device_tree": "android_device_xiaomi_earth",
+    "lineage_kernel_repo": "android_kernel_xiaomi_earth",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/earth_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_earth (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_earth",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "earth",
+    "name": "Redmi 12C NFC",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G85",
+    "lineage_device_tree": "android_device_xiaomi_earth",
+    "lineage_kernel_repo": "android_kernel_xiaomi_earth",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/earth_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_earth (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_earth",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "earth",
+    "name": "POCO C55",
+    "sub_brand": "poco",
+    "soc": "MediaTek Helio G85",
+    "lineage_device_tree": "android_device_xiaomi_earth",
+    "lineage_kernel_repo": "android_kernel_xiaomi_earth",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/earth_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_earth (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_earth",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "fuxi",
+    "name": "13",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_xiaomi_fuxi",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/fuxi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_fuxi",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "garnet",
+    "name": "Redmi Note 13 Pro 5G",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7435-AB Snapdragon 7s Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_garnet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/garnet_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_garnet",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "garnet",
+    "name": "Redmi Note 13 Pro 5G (India)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7435-AB Snapdragon 7s Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_garnet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/garnet_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_garnet",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "garnet",
+    "name": "Redmi Note 13 Pro 5G (China)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7435-AB Snapdragon 7s Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_garnet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/garnet_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_garnet",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "garnet",
+    "name": "POCO X6 5G",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM7435-AB Snapdragon 7s Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_garnet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/garnet_variant4.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_garnet",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "garnet",
+    "name": "POCO X6 5G (India)",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM7435-AB Snapdragon 7s Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_garnet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm7435",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/garnet_variant5.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm7435 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_garnet",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gauguin",
+    "name": "Mi 10T Lite 5G",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7225 Snapdragon 750G 5G",
+    "lineage_device_tree": "android_device_xiaomi_gauguin",
+    "lineage_kernel_repo": "android_kernel_xiaomi_gauguin",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gauguin_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_gauguin (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_gauguin",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gauguin",
+    "name": "Mi 10i 5G",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7225 Snapdragon 750G 5G",
+    "lineage_device_tree": "android_device_xiaomi_gauguin",
+    "lineage_kernel_repo": "android_kernel_xiaomi_gauguin",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gauguin_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_gauguin (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_gauguin",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "gauguin",
+    "name": "Redmi Note 9 Pro 5G",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7225 Snapdragon 750G 5G",
+    "lineage_device_tree": "android_device_xiaomi_gauguin",
+    "lineage_kernel_repo": "android_kernel_xiaomi_gauguin",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/gauguin_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_gauguin (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_gauguin",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "ginkgo",
+    "name": "Redmi Note 8",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM6125 Snapdragon 665",
+    "lineage_device_tree": "android_device_xiaomi_ginkgo",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6125",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/ginkgo_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6125 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_ginkgo",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "ginkgo",
+    "name": "Redmi Note 8T",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM6125 Snapdragon 665",
+    "lineage_device_tree": "android_device_xiaomi_ginkgo",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6125",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "17.1",
+      "18.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/ginkgo_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6125 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_ginkgo",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "haydn",
+    "name": "Mi 11i",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_xiaomi_haydn",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/haydn_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_haydn",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "haydn",
+    "name": "Redmi K40 Pro",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_xiaomi_haydn",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/haydn_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_haydn",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "haydn",
+    "name": "Redmi K40 Pro+",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_xiaomi_haydn",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/haydn_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_haydn",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "haydn",
+    "name": "Mi 11X Pro",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_xiaomi_haydn",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/haydn_variant4.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_haydn",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lancelot",
+    "name": "Redmi 9",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G80",
+    "lineage_device_tree": "android_device_xiaomi_lancelot",
+    "lineage_kernel_repo": "android_kernel_xiaomi_mt6768",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lancelot.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_mt6768 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lancelot",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "laurel_sprout",
+    "name": "Mi A3",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM6125 Snapdragon 665",
+    "lineage_device_tree": "android_device_xiaomi_laurel_sprout",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6125",
+    "kernel_version": "4.14",
+    "is_ab": "sim",
+    "install_method": "fastboot_nexus",
+    "unlock_command": "fastboot flashing unlock",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/laurel_sprout.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_nexus', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6125 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_laurel_sprout",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lisa",
+    "name": "11 Lite 5G NE",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_xiaomi_lisa",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lisa_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lisa",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lisa",
+    "name": "11 Lite NE 5G",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_xiaomi_lisa",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lisa_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lisa",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lisa",
+    "name": "Mi 11 LE",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7325 Snapdragon 778G 5G",
+    "lineage_device_tree": "android_device_xiaomi_lisa",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lisa_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lisa",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lmi",
+    "name": "POCO F2 Pro",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_lmi",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lmi_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lmi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lmi",
+    "name": "Redmi K30 Pro",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_lmi",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lmi_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lmi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "lmi",
+    "name": "Redmi K30 Pro Zoom Edition",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_lmi",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "18.1",
+      "19.1",
+      "20",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/lmi_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_lmi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "marble",
+    "name": "POCO F5 (Global)",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM7475-AB Snapdragon 7+ Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_marble",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/marble_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_marble",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "marble",
+    "name": "POCO F5 (India)",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM7475-AB Snapdragon 7+ Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_marble",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/marble_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_marble",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "marble",
+    "name": "Redmi Note 12 Turbo",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7475-AB Snapdragon 7+ Gen 2",
+    "lineage_device_tree": "android_device_xiaomi_marble",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/marble_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_marble",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "mars",
+    "name": "Mi 11 Pro",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_xiaomi_mars",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/mars.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_mars",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "mayfly",
+    "name": "12S",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_mayfly",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/mayfly.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_mayfly",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "merlinx",
+    "name": "Redmi Note 9",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G85",
+    "lineage_device_tree": "android_device_xiaomi_merlinx",
+    "lineage_kernel_repo": "android_kernel_xiaomi_mt6768",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/merlinx.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_mt6768 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_merlinx",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "mondrian",
+    "name": "POCO F5 Pro",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_mondrian",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/mondrian_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_mondrian",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "mondrian",
+    "name": "Redmi K60",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_mondrian",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/mondrian_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_mondrian",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "munch",
+    "name": "POCO F4",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_xiaomi_munch",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/munch_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_munch",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "munch",
+    "name": "Redmi K40S",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_xiaomi_munch",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/munch_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_munch",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "nuwa",
+    "name": "13 Pro",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_xiaomi_nuwa",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/nuwa.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_nuwa",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "peridot",
+    "name": "POCO F6",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM8635 Snapdragon 8s Gen3",
+    "lineage_device_tree": "android_device_xiaomi_peridot",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8635",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/peridot_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8635 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_peridot",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "peridot",
+    "name": "Redmi Turbo 3",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8635 Snapdragon 8s Gen3",
+    "lineage_device_tree": "android_device_xiaomi_peridot",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8635",
+    "kernel_version": "6.1",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/peridot_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8635 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_peridot",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "renoir",
+    "name": "Mi 11 Lite 5G",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7350-AB Snapdragon 780G 5G",
+    "lineage_device_tree": "android_device_xiaomi_renoir",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "19.1",
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/renoir.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_renoir",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rosemary",
+    "name": "Redmi Note 10S",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G95",
+    "lineage_device_tree": "android_device_xiaomi_rosemary",
+    "lineage_kernel_repo": "android_kernel_xiaomi_mt6785",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rosemary_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_mt6785 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_rosemary",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rosemary",
+    "name": "Redmi Note 10S NFC",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G95",
+    "lineage_device_tree": "android_device_xiaomi_rosemary",
+    "lineage_kernel_repo": "android_kernel_xiaomi_mt6785",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rosemary_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_mt6785 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_rosemary",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rosemary",
+    "name": "Redmi Note 10S Latin America",
+    "sub_brand": "redmi",
+    "soc": "MediaTek Helio G95",
+    "lineage_device_tree": "android_device_xiaomi_rosemary",
+    "lineage_kernel_repo": "android_kernel_xiaomi_mt6785",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rosemary_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_mt6785 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_rosemary",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "rosemary",
+    "name": "POCO M5s",
+    "sub_brand": "poco",
+    "soc": "MediaTek Helio G95",
+    "lineage_device_tree": "android_device_xiaomi_rosemary",
+    "lineage_kernel_repo": "android_kernel_xiaomi_mt6785",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/rosemary_variant4.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_mt6785 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_rosemary",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "socrates",
+    "name": "Redmi K60 Pro",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_xiaomi_socrates",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/socrates.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_socrates",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "sweet",
+    "name": "Redmi Note 10 Pro",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7150-AC Snapdragon 732G",
+    "lineage_device_tree": "android_device_xiaomi_sweet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/sweet_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_sweet",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "sweet",
+    "name": "Redmi Note 10 Pro (India)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7150-AC Snapdragon 732G",
+    "lineage_device_tree": "android_device_xiaomi_sweet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/sweet_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_sweet",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "sweet",
+    "name": "Redmi Note 10 Pro Max (India)",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM7150-AC Snapdragon 732G",
+    "lineage_device_tree": "android_device_xiaomi_sweet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "20",
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/sweet_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_sweet",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "thor",
+    "name": "12S Ultra",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_thor",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/thor.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_thor",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "thyme",
+    "name": "Mi 10S",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "lineage_device_tree": "android_device_xiaomi_thyme",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/thyme.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_thyme",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tucana",
+    "name": "Mi Note 10",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7150-AB Snapdragon 730G",
+    "lineage_device_tree": "android_device_xiaomi_tucana",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tucana_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_tucana",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tucana",
+    "name": "Mi Note 10 Pro",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7150-AB Snapdragon 730G",
+    "lineage_device_tree": "android_device_xiaomi_tucana",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tucana_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_tucana",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "tucana",
+    "name": "Mi CC9 Pro",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM7150-AB Snapdragon 730G",
+    "lineage_device_tree": "android_device_xiaomi_tucana",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/tucana_variant3.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_tucana",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "umi",
+    "name": "Mi 10",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "lineage_device_tree": "android_device_xiaomi_umi",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8250",
+    "kernel_version": "4.19",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "21",
+      "22.1",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/umi.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8250 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_umi",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "unicorn",
+    "name": "12S Pro",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_unicorn",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/unicorn.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_unicorn",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "venus",
+    "name": "Mi 11",
+    "sub_brand": "mi",
+    "soc": "Qualcomm SM8350 Snapdragon 888",
+    "lineage_device_tree": "android_device_xiaomi_venus",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8350",
+    "kernel_version": "5.4",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi_hyperos",
+    "lineage_versions": [
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/venus.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi_hyperos', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8350 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_venus",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "vermeer",
+    "name": "POCO F6 Pro",
+    "sub_brand": "poco",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_xiaomi_vermeer",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/vermeer_variant1.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_vermeer",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "vermeer",
+    "name": "Redmi K70",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM8550 Snapdragon 8 Gen2",
+    "lineage_device_tree": "android_device_xiaomi_vermeer",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8550",
+    "kernel_version": "5.15",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/vermeer_variant2.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8550 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_vermeer",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "violet",
+    "name": "Redmi Note 7 Pro",
+    "sub_brand": "redmi",
+    "soc": "Qualcomm SM6150 Snapdragon 675",
+    "lineage_device_tree": "android_device_xiaomi_violet",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm6150",
+    "kernel_version": "4.14",
+    "is_ab": "desconhecido",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "16.0",
+      "20",
+      "22.2",
+      "23.0",
+      "23.2"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/violet.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm6150 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_violet",
+      "c4_kernel_ge_5_10": "não",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "zeus",
+    "name": "12 Pro",
+    "soc": "Qualcomm SM8450 Snapdragon 8 Gen1",
+    "lineage_device_tree": "android_device_xiaomi_zeus",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/zeus.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_zeus",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  },
+  {
+    "codename": "zizhan",
+    "name": "MIX Fold 2",
+    "soc": "Qualcomm SM8475 Snapdragon 8+ Gen1",
+    "lineage_device_tree": "android_device_xiaomi_zizhan",
+    "lineage_kernel_repo": "android_kernel_xiaomi_sm8450",
+    "kernel_version": "5.10",
+    "is_ab": "sim",
+    "install_method": "fastboot_xiaomi",
+    "lineage_versions": [
+      "22.2",
+      "23.0",
+      "23.2",
+      "24.0"
+    ],
+    "source": "LineageOS/lineage_wiki@7a34d162b9210e523d504598ed026aee9f42f600:_data/devices/zizhan.yml",
+    "criteria_hints": {
+      "c1_unlock": "a verificar: o cadastro indica o método de instalação 'fastboot_xiaomi', não garante desbloqueio sem espera ou recusa",
+      "c2_kernel_gpl": "repositório declarado pelo LineageOS: android_kernel_xiaomi_sm8450 (licença e fonte a conferir)",
+      "c3_device_tree": "repositório declarado pelo LineageOS: android_device_xiaomi_zizhan",
+      "c4_kernel_ge_5_10": "sim",
+      "c5_recovery": "não testado"
+    }
+  }
+]

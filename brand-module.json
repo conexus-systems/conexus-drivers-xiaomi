@@ -1,0 +1,367 @@
+{
+  "brand": "xiaomi",
+  "sub_brands": [
+    "mi",
+    "poco",
+    "redmi"
+  ],
+  "status": "unverified",
+  "devices": [
+    {
+      "codename": "Mi439",
+      "model": "Redmi 7A"
+    },
+    {
+      "codename": "Mi439",
+      "model": "Redmi 8"
+    },
+    {
+      "codename": "Mi439",
+      "model": "Redmi 8A"
+    },
+    {
+      "codename": "Mi439",
+      "model": "Redmi 8A Dual"
+    },
+    {
+      "codename": "Mi8917",
+      "model": "Redmi 4A"
+    },
+    {
+      "codename": "Mi8917",
+      "model": "Redmi 5A"
+    },
+    {
+      "codename": "Mi8917",
+      "model": "Redmi Note 5A Lite"
+    },
+    {
+      "codename": "Mi8917",
+      "model": "Redmi Y1 Lite"
+    },
+    {
+      "codename": "Mi8937",
+      "model": "Redmi 3S"
+    },
+    {
+      "codename": "Mi8937",
+      "model": "Redmi 3X"
+    },
+    {
+      "codename": "Mi8937",
+      "model": "Redmi 4 (India)"
+    },
+    {
+      "codename": "Mi8937",
+      "model": "Redmi 4X"
+    },
+    {
+      "codename": "Mi8937",
+      "model": "Redmi Note 5A Prime"
+    },
+    {
+      "codename": "Mi8937",
+      "model": "Redmi Y1 Prime"
+    },
+    {
+      "codename": "alioth",
+      "model": "POCO F3"
+    },
+    {
+      "codename": "alioth",
+      "model": "Redmi K40"
+    },
+    {
+      "codename": "alioth",
+      "model": "Mi 11X"
+    },
+    {
+      "codename": "apollon",
+      "model": "Mi 10T"
+    },
+    {
+      "codename": "apollon",
+      "model": "Mi 10T Pro"
+    },
+    {
+      "codename": "apollon",
+      "model": "Redmi K30S Ultra"
+    },
+    {
+      "codename": "cas",
+      "model": "Mi 10 Ultra"
+    },
+    {
+      "codename": "cmi",
+      "model": "Mi 10 Pro"
+    },
+    {
+      "codename": "cupid",
+      "model": "12"
+    },
+    {
+      "codename": "davinci",
+      "model": "Mi 9T"
+    },
+    {
+      "codename": "davinci",
+      "model": "Redmi K20 (China)"
+    },
+    {
+      "codename": "davinci",
+      "model": "Redmi K20 (India)"
+    },
+    {
+      "codename": "diting",
+      "model": "12T Pro"
+    },
+    {
+      "codename": "diting",
+      "model": "Redmi K50 Ultra"
+    },
+    {
+      "codename": "earth",
+      "model": "Redmi 12C"
+    },
+    {
+      "codename": "earth",
+      "model": "Redmi 12C NFC"
+    },
+    {
+      "codename": "earth",
+      "model": "POCO C55"
+    },
+    {
+      "codename": "fuxi",
+      "model": "13"
+    },
+    {
+      "codename": "garnet",
+      "model": "Redmi Note 13 Pro 5G"
+    },
+    {
+      "codename": "garnet",
+      "model": "Redmi Note 13 Pro 5G (India)"
+    },
+    {
+      "codename": "garnet",
+      "model": "Redmi Note 13 Pro 5G (China)"
+    },
+    {
+      "codename": "garnet",
+      "model": "POCO X6 5G"
+    },
+    {
+      "codename": "garnet",
+      "model": "POCO X6 5G (India)"
+    },
+    {
+      "codename": "gauguin",
+      "model": "Mi 10T Lite 5G"
+    },
+    {
+      "codename": "gauguin",
+      "model": "Mi 10i 5G"
+    },
+    {
+      "codename": "gauguin",
+      "model": "Redmi Note 9 Pro 5G"
+    },
+    {
+      "codename": "ginkgo",
+      "model": "Redmi Note 8"
+    },
+    {
+      "codename": "ginkgo",
+      "model": "Redmi Note 8T"
+    },
+    {
+      "codename": "haydn",
+      "model": "Mi 11i"
+    },
+    {
+      "codename": "haydn",
+      "model": "Redmi K40 Pro"
+    },
+    {
+      "codename": "haydn",
+      "model": "Redmi K40 Pro+"
+    },
+    {
+      "codename": "haydn",
+      "model": "Mi 11X Pro"
+    },
+    {
+      "codename": "lancelot",
+      "model": "Redmi 9"
+    },
+    {
+      "codename": "laurel_sprout",
+      "model": "Mi A3"
+    },
+    {
+      "codename": "lisa",
+      "model": "11 Lite 5G NE"
+    },
+    {
+      "codename": "lisa",
+      "model": "11 Lite NE 5G"
+    },
+    {
+      "codename": "lisa",
+      "model": "Mi 11 LE"
+    },
+    {
+      "codename": "lmi",
+      "model": "POCO F2 Pro"
+    },
+    {
+      "codename": "lmi",
+      "model": "Redmi K30 Pro"
+    },
+    {
+      "codename": "lmi",
+      "model": "Redmi K30 Pro Zoom Edition"
+    },
+    {
+      "codename": "marble",
+      "model": "POCO F5 (Global)"
+    },
+    {
+      "codename": "marble",
+      "model": "POCO F5 (India)"
+    },
+    {
+      "codename": "marble",
+      "model": "Redmi Note 12 Turbo"
+    },
+    {
+      "codename": "mars",
+      "model": "Mi 11 Pro"
+    },
+    {
+      "codename": "mayfly",
+      "model": "12S"
+    },
+    {
+      "codename": "merlinx",
+      "model": "Redmi Note 9"
+    },
+    {
+      "codename": "mondrian",
+      "model": "POCO F5 Pro"
+    },
+    {
+      "codename": "mondrian",
+      "model": "Redmi K60"
+    },
+    {
+      "codename": "munch",
+      "model": "POCO F4"
+    },
+    {
+      "codename": "munch",
+      "model": "Redmi K40S"
+    },
+    {
+      "codename": "nuwa",
+      "model": "13 Pro"
+    },
+    {
+      "codename": "peridot",
+      "model": "POCO F6"
+    },
+    {
+      "codename": "peridot",
+      "model": "Redmi Turbo 3"
+    },
+    {
+      "codename": "renoir",
+      "model": "Mi 11 Lite 5G"
+    },
+    {
+      "codename": "rosemary",
+      "model": "Redmi Note 10S"
+    },
+    {
+      "codename": "rosemary",
+      "model": "Redmi Note 10S NFC"
+    },
+    {
+      "codename": "rosemary",
+      "model": "Redmi Note 10S Latin America"
+    },
+    {
+      "codename": "rosemary",
+      "model": "POCO M5s"
+    },
+    {
+      "codename": "socrates",
+      "model": "Redmi K60 Pro"
+    },
+    {
+      "codename": "sweet",
+      "model": "Redmi Note 10 Pro"
+    },
+    {
+      "codename": "sweet",
+      "model": "Redmi Note 10 Pro (India)"
+    },
+    {
+      "codename": "sweet",
+      "model": "Redmi Note 10 Pro Max (India)"
+    },
+    {
+      "codename": "thor",
+      "model": "12S Ultra"
+    },
+    {
+      "codename": "thyme",
+      "model": "Mi 10S"
+    },
+    {
+      "codename": "tucana",
+      "model": "Mi Note 10"
+    },
+    {
+      "codename": "tucana",
+      "model": "Mi Note 10 Pro"
+    },
+    {
+      "codename": "tucana",
+      "model": "Mi CC9 Pro"
+    },
+    {
+      "codename": "umi",
+      "model": "Mi 10"
+    },
+    {
+      "codename": "unicorn",
+      "model": "12S Pro"
+    },
+    {
+      "codename": "venus",
+      "model": "Mi 11"
+    },
+    {
+      "codename": "vermeer",
+      "model": "POCO F6 Pro"
+    },
+    {
+      "codename": "vermeer",
+      "model": "Redmi K70"
+    },
+    {
+      "codename": "violet",
+      "model": "Redmi Note 7 Pro"
+    },
+    {
+      "codename": "zeus",
+      "model": "12 Pro"
+    },
+    {
+      "codename": "zizhan",
+      "model": "MIX Fold 2"
+    }
+  ]
+}
